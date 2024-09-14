@@ -19,8 +19,10 @@ I’m a **Full Stack Developer** with over 2 years of experience in creating dyn
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="350" height="200" />
 
-
-
+<br />
+<br />
+<br />
+<br />
 <table align="center" style="border:none!important;">
   <tr>
     <th scope="col" style="border:none!important;">
