@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Keshav Sharma! 👋 🚀
+_A futuristic Full Stack Developer & QA Enthusiast_
 
-<!--
-**Keshav4911/Keshav4911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](https://user-images.githubusercontent.com/XXXXXX/banner.jpg)
 
-Here are some ideas to get you started:
+I’m a **Full Stack Developer** with over 2 years of experience in creating dynamic and scalable web solutions. My focus is on **innovation**, using the latest technologies like **React**, **Node.js**, **Next.js**, **Angular**, and **AWS** to deliver performance-focused applications. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack & Skills
+```js
+const Keshav = {
+  code: ["JavaScript", "Python", "C#", "Java"],
+  frameworks: ["React", "Next.js", "Angular", "Node.js", "Express", ".NET Core"],
+  databases: ["MongoDB", "MySQL", "MS SQL Server"],
+  tools: ["AWS", "Docker", "Kubernetes", "Git", "JIRA", "Slack"],
+  learning: ["QA Automation", "Cloud Infrastructure with AWS"]
+};
